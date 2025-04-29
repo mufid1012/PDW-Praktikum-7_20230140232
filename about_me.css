@@ -1,0 +1,31 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 30px;
+}
+
+.about-container {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+h1 {
+    text-align: center;
+    color: #00695c;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #00695c;
+}

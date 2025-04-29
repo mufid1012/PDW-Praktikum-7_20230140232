@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #c2e9fb, #a1c4fd);
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: #333;
+}
+
+.nav {
+    list-style: none;
+    padding: 0;
+}
+
+.nav li {
+    margin: 10px 0;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #0066cc;
+}
+
+.nav a:hover {
+    color: #ff6600;
+}
